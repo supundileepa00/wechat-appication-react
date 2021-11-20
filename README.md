@@ -10,7 +10,7 @@ This is a realtime Chat Application with Social Auth logins(Google and Facebook)
 Chat Engine - [https://chatengine.io](https://chatengine.io)
 
 
-###FrontEnd - ReactJS
-###Firebase Google Auth Login
-###Firebase Facebook Auth Login
+**FrontEnd - ReactJS**
+**Firebase Google Auth Login**
+**Firebase Facebook Auth Login**
 
