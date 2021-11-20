@@ -1,15 +1,15 @@
-# Unichat Application
+# WE chat Application
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+
+visit application - [https://wechatappsdp.netlify.app](https://wechatappsdp.netlify.app/)
 
 ## Introduction
 
-This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+This is a realtime Chat Application with Social Auth logins(Google and Facebook) and dedicated chat APIs/sockets.
 
-You will learn how to build a react chat app using [https://chatengine.io](https://chatengine.io)
+Chat Engine - [https://chatengine.io](https://chatengine.io)
+FrontEnd - ReactJS
 
-Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
+##Firebase Google Auth Login
+##Firebase Facebook Auth Login
 
-### Bonus - E-mail notifications
-
-If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
